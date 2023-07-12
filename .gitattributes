@@ -1,2 +1,2 @@
 linguist-vendored
-*.shadervariants linguist-vendored=false
+*.shaders linguist-vendored=false
