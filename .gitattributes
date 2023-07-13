@@ -1,1 +1,1 @@
-*.csharp linguist-vendored
+*.csharp linguist-vendored=true
