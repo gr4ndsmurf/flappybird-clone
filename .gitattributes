@@ -1,1 +1,1 @@
-*.shaders linguist-vendored=false
+*.csharp linguist-detectable=true
