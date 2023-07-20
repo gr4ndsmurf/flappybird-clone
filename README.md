@@ -14,6 +14,7 @@ This is a Flappy Bird clone created using Unity game engine. The game is a simpl
 - [Game Controls](#game-controls)
 - [Features](#features)
 - [How to Play](#how-to-play)
+- [Script Explanations](#script-explanations)
 - [Credits](#credits)
 
 ## Game Overview
